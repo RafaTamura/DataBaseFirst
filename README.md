@@ -1,4 +1,4 @@
-# DataBaseFirst
+# Entity Mini tutorial do DataBase First 
 Este repositório foi utilizado para estudos com o entity framework O entity permite o mapeamento dos elementos do Banco de Dados para os elementos da aplicação, ela possui três linhas principais de utilização 
 
 1 - Database First - Quando o BD já existe (Utilizado neste exemplo)
